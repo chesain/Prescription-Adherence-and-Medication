@@ -4,9 +4,9 @@
 Problem Statement: The application I am designing will help care teams at hospitals better manage their patients’ medication by being able to monitor their patients’ medication adherence and medications. This will allow care team specialists to create and delete an existing patient's prescriptions, as well as check up on a patient's adherence to prescription.
 
 # Libraries
-'pip install mysql-connector-python'
-'pip install pandas'
-'pip install DateTime'
+- `pip install mysql-connector-python`
+- `pip install pandas`
+- `pip install DateTime`
 
 # Setup
 1. First you must initialize you MySQL Server
